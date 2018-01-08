@@ -1,4 +1,4 @@
-# avaliacao-fpf
+# avaliacao-apponte
 
 ### Tecnologias utilizadas no Front-End.
 - `AngularJS`
